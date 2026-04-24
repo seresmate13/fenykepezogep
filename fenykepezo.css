@@ -44,7 +44,7 @@ li{
 }
 
 .lablec{
-    border: 2px dotted black;
+    border-top: 2px dotted black;
     padding: 10px;
     text-align: center;
     
